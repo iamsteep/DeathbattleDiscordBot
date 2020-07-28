@@ -1,6 +1,5 @@
 asyncio
 aiohttp
-imageLayer
 os
 requests
 random
